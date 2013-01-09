@@ -61,7 +61,8 @@ public class Geo extends MapActivity {
 		}
 	}
 
-/*	@Override
+/*	Starting point to plot points on the map, never had a chance to finish
+	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		super.onCreateOptionsMenu(menu);
 		menu.add(0, 1, 0, "Edit Points").setIcon(

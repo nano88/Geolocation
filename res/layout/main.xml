@@ -13,5 +13,5 @@
        <com.google.android.maps.MapView
         android:id="@+id/mainmapview" android:layout_width="fill_parent"
         android:layout_height="wrap_content" android:clickable="true"
-        android:apiKey="09rq3hTjiGm8WfUTpDXrx0Aal6q9KOE5XHeneYQ" />
+        android:apiKey="GOOGLE MAPS API KEY" />
 </LinearLayout>
